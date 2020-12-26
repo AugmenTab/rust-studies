@@ -1,0 +1,12 @@
+C:\Users\augme\OneDrive\Documents\Code\rust-studies\guess\target\debug\deps\rand_core-e34b701729d84a73.rmeta: C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\lib.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\block.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\error.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\impls.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\le.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\os.rs
+
+C:\Users\augme\OneDrive\Documents\Code\rust-studies\guess\target\debug\deps\librand_core-e34b701729d84a73.rlib: C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\lib.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\block.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\error.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\impls.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\le.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\os.rs
+
+C:\Users\augme\OneDrive\Documents\Code\rust-studies\guess\target\debug\deps\rand_core-e34b701729d84a73.d: C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\lib.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\block.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\error.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\impls.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\le.rs C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\os.rs
+
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\lib.rs:
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\block.rs:
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\error.rs:
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\impls.rs:
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\le.rs:
+C:\Users\augme\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.0\src\os.rs:
